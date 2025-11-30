@@ -1,1 +1,3 @@
-This is a repo for the Boot.dev Bookbot project.
+# bookbot
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
